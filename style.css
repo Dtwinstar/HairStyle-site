@@ -259,7 +259,7 @@ features h1{
         flex-basis: 100%;
     } 
     .features-img img{
-        width: 100%;
+        width: 150%;
     }
 }
 
@@ -498,7 +498,7 @@ hr{
 .user-info .fa{
     margin-left: 10px;
     color: #ff277d;
-    font-size: 20px;
+    font-size: 30px;
 }
 .user-info small{
     color: #1b0096;
